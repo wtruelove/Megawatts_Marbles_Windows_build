@@ -9,4 +9,7 @@
     See license terms for details
 
     This repo contains a static build of Megawatts & Marbles for 64-bit Windows. You should be able to just 
-Code -> Download ZIP, 
+Code -> Download ZIP, extract wherever, and then run by way of MegawattsMarbles.exe. 
+
+    If you'd like to compile from source instead, or if you'd like to modify the game, you can access the
+source code at 
