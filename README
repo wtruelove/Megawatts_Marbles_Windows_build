@@ -14,6 +14,10 @@ Code -> Download ZIP, extract wherever, and then run by way of MegawattsMarbles.
     Once in game, you can always press [T] to bring up the tutorial, [I] to bring up plant information, and
 [B] to bring up the key bindings. Have fun!
 
+    This is a port of the Megawatts & Marbles board game, originally developed at the University of Victoria.
+You can learn more about the board game at https://www.uvic.ca/research/centres/iesvic/get-involved/megawatts-marbles/index.php
+and https://megawattsandmarbles.com/.
+
     You can send feedback to megawattsmarbles@gmail.com
 
     If you'd like to compile from source instead, or if you'd like to modify the game, you can access the
